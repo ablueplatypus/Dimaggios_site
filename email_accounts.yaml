@@ -1,0 +1,16 @@
+--- 
+__version: '2.1'
+dimaggios.net: 
+  account_count: 1
+  accounts: 
+    dimaggios: 
+      disk_mtime: '1444077967'
+      diskquota: 262144000
+      diskused: 3980700
+  disk_mtime: '1444077967'
+  passwd_mtime: '1444077967'
+  quota_mtime: '1444077967'
+dimaggiosofsmithtown.dimaggios.net: 
+  account_count: 0
+  accounts: {}
+
