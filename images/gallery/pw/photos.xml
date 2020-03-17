@@ -1,0 +1,331 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "3/5/12">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "18456_273309725675_2#D0001.jpg"
+width = "650"
+height = "489"
+thumbpath = "18456_273309725675_2#D0001.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "18456_273309740675_2#D0002.jpg"
+width = "650"
+height = "489"
+thumbpath = "18456_273309740675_2#D0002.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "18456_273309745675_2#D0003.jpg"
+width = "650"
+height = "489"
+thumbpath = "18456_273309745675_2#D0003.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "18456_273309760675_2#D0004.jpg"
+width = "650"
+height = "489"
+thumbpath = "18456_273309760675_2#D0004.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "18456_273309765675_2#D0005.jpg"
+width = "489"
+height = "650"
+thumbpath = "18456_273309765675_2#D0005.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18456_273309785675_2#D0006.jpg"
+width = "650"
+height = "489"
+thumbpath = "18456_273309785675_2#D0006.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "19556_1331049046354_#D0007.jpg"
+width = "650"
+height = "431"
+thumbpath = "19556_1331049046354_#D0007.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "19556_1331053446464_#D0008.jpg"
+width = "650"
+height = "431"
+thumbpath = "19556_1331053446464_#D0008.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "19556_1331057846574_#D0009.jpg"
+width = "650"
+height = "431"
+thumbpath = "19556_1331057846574_#D0009.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "19556_1331062006678_#D0010.jpg"
+width = "650"
+height = "431"
+thumbpath = "19556_1331062006678_#D0010.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "20456_291207890675_2#D0011.jpg"
+width = "650"
+height = "489"
+thumbpath = "20456_291207890675_2#D0011.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "20456_291207900675_2#D0012.jpg"
+width = "650"
+height = "489"
+thumbpath = "20456_291207900675_2#D0012.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "22262_339584800675_2#D0013.jpg"
+width = "650"
+height = "489"
+thumbpath = "22262_339584800675_2#D0013.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "22262_339584810675_2#D0014.jpg"
+width = "650"
+height = "489"
+thumbpath = "22262_339584810675_2#D0014.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "22262_339584815675_2#D0015.jpg"
+width = "650"
+height = "489"
+thumbpath = "22262_339584815675_2#D0015.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "22262_339584825675_2#D0016.jpg"
+width = "650"
+height = "489"
+thumbpath = "22262_339584825675_2#D0016.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "22262_339584850675_2#D0017.jpg"
+width = "650"
+height = "488"
+thumbpath = "22262_339584850675_2#D0017.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "293614_1015043277743#D0018.jpg"
+width = "650"
+height = "487"
+thumbpath = "293614_1015043277743#D0018.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "296549_1015043277734#D0019.jpg"
+width = "650"
+height = "487"
+thumbpath = "296549_1015043277734#D0019.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "296549_1015043277734#D0020.jpg"
+width = "650"
+height = "487"
+thumbpath = "296549_1015043277734#D0020.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "299781_1015043277664#D0021.jpg"
+width = "650"
+height = "487"
+thumbpath = "299781_1015043277664#D0021.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "303966_1015043277702#D0022.jpg"
+width = "650"
+height = "487"
+thumbpath = "303966_1015043277702#D0022.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "305729_1015038194404#D0023.jpg"
+width = "650"
+height = "431"
+thumbpath = "305729_1015038194404#D0023.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "307829_1015043277717#D0024.jpg"
+width = "650"
+height = "487"
+thumbpath = "307829_1015043277717#D0024.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "307829_1015043277717#D0025.jpg"
+width = "650"
+height = "487"
+thumbpath = "307829_1015043277717#D0025.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "35563_430547065675_2#D0026.jpg"
+width = "650"
+height = "486"
+thumbpath = "35563_430547065675_2#D0026.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "386204_1015038193911#D0027.jpg"
+width = "650"
+height = "431"
+thumbpath = "386204_1015038193911#D0027.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "386776_1015038194092#D0028.jpg"
+width = "650"
+height = "431"
+thumbpath = "386776_1015038194092#D0028.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "391655_1015038195020#D0029.jpg"
+width = "650"
+height = "431"
+thumbpath = "391655_1015038195020#D0029.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "40559_454022570675_2#D0030.jpg"
+width = "650"
+height = "487"
+thumbpath = "40559_454022570675_2#D0030.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "41269_454022645675_2#D0031.jpg"
+width = "650"
+height = "487"
+thumbpath = "41269_454022645675_2#D0031.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
