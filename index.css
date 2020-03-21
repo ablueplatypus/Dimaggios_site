@@ -59,11 +59,12 @@
 	color: #FF9A00;
 	text-decoration: underline;
 }
-  .style13 {font-family: "Times New Roman", Times, serif;
+  .style13 {
+    font-family: "Times New Roman", Times, serif;
 	font-weight: bold;
 	color: #C73522;
 	font-size: 24px;
-}
+  }
   .style17 a {
 	color: #FFFFFF;
 	text-decoration: none;
