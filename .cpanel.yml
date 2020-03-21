@@ -4,4 +4,4 @@ deployment:
     - /bin/cp dpw-blackboard-menus.html $DEPLOYPATH
     - /bin/cp index.css $DEPLOYPATH
     - /bin/cp media.css $DEPLOYPATH
-    - /bin/cp index.html $DEPLOYPATH
+    # - /bin/cp index.html $DEPLOYPATH
