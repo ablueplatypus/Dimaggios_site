@@ -1,6 +1,108 @@
-@media screen and (max-width: 320px) {
- table  {
-   display: block;
+@media only screen and (max-device-width: 760px) {
+
+  table, thead, tbody,th,td,tr {
+    display: table-row;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /* font-size: 100%; */
+    /* font: inherit; */
+    /* vertical-align: baseline; */
+  }
+
+  td img {
+   width: 100%;
+   height: fit-content;
  }
- 
+
+  tbody {
+    width: 100%;
+  }
+
+  .cnt-text {
+    text-align: center;
+  }
+
+  .foxp.style32 {
+    font-size:2em;
+  }
+
+  .di-offers {
+    font-size: 2.5em;
+    font-weight: 300;
+  }
+
+  .style25 {
+    font-size: 2.3em;
+  }
+
+  .style8 a {
+    text-decoration: underline;
+    text-decoration-color: #F7b882
+  }
+
+  .nav {
+    display: contents;
+  }
+
+  .style8 {
+    font-size: 50px;
+  }
+
+  .style33 {
+    font-size: 5em;
+  }
+
+  .style32, .style31 {
+    font-size: 3em;
+  }
+
+  .style10 {
+    font-size: 1.4em;
+  }
+
+  .style29 {
+    font-size: 3rem;
+  }
+
+  .style11 {
+    font-size: 2em;
+  }
+
+  .admobile {
+    font-size: 4em;
+  }
+
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .mobile-width {
+    width: 100%;
+  }
+
+  .media-icons-flex {
+    display: flex;
+    margin: 20px 0;
+    justify-content: space-evenly;
+  }
+
+  img.tripadvisor {
+    height: auto;
+    width: 30%;
+  }
+
+/* Below CSS is being used to get any span tag that has an image inisde it. */
+/* This is being used to change the statcounter */
+  span img {
+    height: auto;
+    width: 18%;
+  }
+
 }
