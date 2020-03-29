@@ -59,6 +59,20 @@
 		color: white;
 	}
 
+	.footer-nav {
+		font-family: "Times New Roman", Times, serif;
+		font-size: 18px;
+		color: #FFFFFF;
+	}
+
+	.footer-nav a {
+		color: #FFFFFF;
+	}
+
+	/* a:hover.footer-nav{
+		color: #FF9A00;
+	} */
+
 	/*
  ===============================
 	1.2 Fonts - Text size
@@ -138,4 +152,16 @@
 		font-weight: bold;
     font-size: 1.5em;
     color: #FFFF99;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	.blackboard-footer {
+		background-color: #910100;
+    width: 901px;
+		color: #FFF;
+	}
+
+	.lunch-info-custom-font {
+		font-weight: bold;
+		color: #FFFF99;
 	}
