@@ -21,7 +21,7 @@
   }
 
 	.margin-left-bl-cnt {
-		margin-left: 124px;
+		margin-left: 95px;
 	}
 
 	/*
@@ -31,7 +31,7 @@
  */
 
  .nav {
-	 font-size: 50px !important;
+	 font-size: 65px !important;
 	 display: contents;
  }
 
@@ -119,9 +119,13 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 2em;
 	}
 
- .text-lg-bold {
+ /* .text-lg-bold {
  	font-size: 2.5em;
  	font-weight: 300;
+ } */
+
+ .phone-num-mobile {
+	 font-size: 3rem;
  }
 
  .gift-card-promo {
@@ -138,6 +142,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
  .footer-font-size {
  	font-size: 1.5em;
+ }
+
+ .text-titles {
+	 font-size: 70px;
  }
 
  /*
