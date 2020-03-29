@@ -5,9 +5,6 @@
     margin: 0;
     padding: 0;
     border: 0;
-    /* font-size: 100%; */
-    /* font: inherit; */
-    /* vertical-align: baseline; */
   }
 
   td img {
@@ -23,64 +20,39 @@
     text-align: center;
   }
 
-  .foxp.style32 {
-    font-size:2em;
-  }
+	/*
+ ===============================
+	1.0 mobile Global
+ ===============================
+ */
 
-  .di-offers {
-    font-size: 2.5em;
-    font-weight: 300;
-  }
+ .nav {
+	 font-size: 50px;
+	 display: contents;
+ }
 
-  .style25 {
-    font-size: 2.3em;
-  }
+ .nav a {
+	 text-decoration: underline;
+	 text-decoration-color: #F7b882
+ }
 
-  .style8 a {
-    text-decoration: underline;
-    text-decoration-color: #F7b882
-  }
+ .flex {
+	 display: flex;
+ }
 
-  .nav {
-    display: contents;
-  }
+ .flex-container {
+	 display: flex;
+	 justify-content: center;
+	 width: 100%;
+ }
 
-  .style8 {
-    font-size: 50px;
-  }
+ .flex-column {
+	 display: flex;
+	 flex-direction: column;
+ }
 
-  .style33 {
-    font-size: 5em;
-  }
-
-  .style32, .style31 {
-    font-size: 3em;
-  }
-
-  .style10 {
-    font-size: 1.4em;
-  }
-
-  .style29 {
-    font-size: 3rem;
-  }
-
-  .style11 {
-    font-size: 2em;
-  }
-
-  .admobile {
-    font-size: 4em;
-  }
-
-  .flex-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
-
-  .flex {
-    display: flex;
+  .ad-card-mobile {
+    font-size: 1.5em;
   }
 
   .mobile-width {
@@ -93,16 +65,61 @@
     justify-content: space-evenly;
   }
 
+	/*
+ ===============================
+	1.1 mobile - special
+ ===============================
+ */
   img.tripadvisor {
     height: auto;
     width: 30%;
   }
 
-/* Below CSS is being used to get any span tag that has an image inisde it. */
+/*
+Below CSS is being used to get any span tag that has an image inisde it.
+*/
 /* This is being used to change the statcounter */
   span img {
     height: auto;
     width: 18%;
   }
 
-}
+
+	/*
+ ===============================
+	1.2 Fonts - Text size
+ ===============================
+ */
+
+	.about-par {
+ 		font-size: 2em;
+ 	}
+
+	.font-size-lg {
+		font-size: 2em;
+	}
+
+ .text-lg-bold {
+ 	font-size: 2.5em;
+ 	font-weight: 300;
+ }
+
+ .gift-card-promo {
+	 font-size: 3.5em;
+ }
+
+ .copyright-font-size-mobile {
+ 	font-size: 1.4em;
+ }
+
+ .speicals-link {
+ 	font-size: 3rem;
+ }
+
+ .footer-font-size {
+ 	font-size: 1.5em;
+ }
+
+
+
+} /* end of media tag */

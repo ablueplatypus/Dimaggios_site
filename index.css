@@ -3,110 +3,122 @@
     display: block;
   }
 
-  .style16 a {
-	 color: #000000;
-	 text-decoration: none;
-  }
-
   body {
 	  background-color: #FFBD86;
 	  background-image: url(images/background-texture.gif);
 	  background-repeat: repeat-x;
-  }
-  .style8 {
-    font-family: "Times New Roman", Times, serif; font-size: 18px; color: #FFFFFF;
-  }
-  .style8 a {
-	  color: #FFFFFF;
-	  text-decoration: none;
-  }
-  a:hover {
-	   color: #FF9A00;
-	    text-decoration: none;
-  }
-  .style11 a {
-	color: #FFFFFF;
-	text-decoration: none;
-}
-  .style10 {
-	 font-family: Arial, Helvetica, sans-serif;
-	 font-size: 10px;
-	 color: #FFFFFF;
-  }
-  .style11 {
-    font-family: "Times New Roman", Times, serif; font-size: 14px; color: #FFFFFF;
+		font-family: Arial, Helvetica, sans-serif;
   }
 
+	a {
+		text-decoration: none;
+	}
+
+	.nav {
+		font-family: "Times New Roman", Times, serif;
+		font-size: 18px;
+		color: #FFFFFF;
+	}
+
+	.nav a {
+		color: #FFFFFF;
+	}
+
   a:hover {
-	   color: #FF9A00;
-	    text-decoration: underline;
+		color: #FF9A00;
+		text-decoration: underline;
   }
-  .style10 a {
-	color: #FFFFFF;
-	text-decoration: none;
-}
-  a:hover {
-	color: #FF9A00;
-	text-decoration: underline;
-}
+
   .style12 a {
-	color: #000000;
-	text-decoration: none;
-}
-  a:hover {
-	color: #FF9A00;
-	text-decoration: underline;
-}
-  .style13 {
-    font-family: "Times New Roman", Times, serif;
-	font-weight: bold;
-	color: #C73522;
-	font-size: 24px;
-  }
-  .style17 a {
-	color: #FFFFFF;
-	text-decoration: none;
-}
-  .style22 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF; }
-  .style28 {color: #FFFFFF; font-family: Arial, Helvetica, sans-serif;}
-  .style29 {font-size: 14px}
-  .style31 {font-size: 24px; font-weight: bold; }
-  .style29 {
-	color: #FFFFFF;
-	text-decoration: none;
-}
-  .style32 {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 18px;
-}
-  .style33 {
-	font-size: 30px;
-	font-style: italic;
-	font-weight: bold;
-}
-  .style35 {
-    color: #FFFFFF;
-    text-decoration: none;
-    font-size: 18px;
+		color: #000000;
+		text-decoration: none;
+	}
+
+	/*
+ ===============================
+	1.0 Global - new
+ ===============================
+ */
+  .footer-td-width-ops {
+    width: 300px;
   }
 
-  .style25 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    color: #FFFFFF;
-    font-weight: bold;
-  }
-  .style36 {
-    color: #FFFFFF
-  }
+	.cnt-text {
+		text-align: center;
+	}
 
-  .style38 {
-	color: #FFFFFF;
-	font-weight: bold;
-	font-size: 24px;
-  }
+	.align-middle {
+		vertical-align: middle;
+	}
 
-  .style41 {
-    color: #FFFFFF;
-    font-weight: bold;
-  }
+	.md-box-ht {
+		height: 150px;
+	}
+
+	.card-color-white {
+		color: white;
+	}
+
+	/*
+ ===============================
+	1.2 Fonts - Text size
+ ===============================
+ */
+
+	.card-color{
+		color: #FFF;
+	}
+
+	.font-bold-24 {
+		font-size: 24px;
+		font-style: bold;
+	}
+
+	.footer-color {
+		color: #FFF;
+	}
+
+	.text-titles a {
+		color: #FFF;
+		text-decoration: none;
+	}
+
+	.link-color-white-text-dec {
+		color: #FFF;
+		text-decoration: underline;
+	}
+
+	.footer-color a {
+		color: #FFF;
+	}
+
+ .text-titles {
+	 font-size: 1.3625em;
+	 font-weight: bold;
+	}
+
+	.text-md {
+	 font-size: 1em;
+	}
+
+	.font-sm {
+		font-size: 16px;
+	}
+
+	.gift-card-promo {
+		color: #FFF;
+		font-family: "Times New Roman", Times, serif;
+		font-size: 1.5em;
+
+	}
+
+	.welcome-text {
+		font-size: 30px;
+		font-style: italic;
+		font-weight: bold;
+	}
+
+	.about-par {
+		font-family: "Times New Roman", Times, serif;
+		font-size: 18px;
+	}
