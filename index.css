@@ -122,3 +122,20 @@
 		font-family: "Times New Roman", Times, serif;
 		font-size: 18px;
 	}
+
+	/*
+ ===============================
+	1.3 Blackboard
+ ===============================
+ */
+
+	.blackboard-img {
+		background: url(images/blackboard-body.jpg);
+		color: #FFF;
+	}
+
+	.blackboard-tiles {
+		font-weight: bold;
+    font-size: 1.5em;
+    color: #FFFF99;
+	}
