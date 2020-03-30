@@ -45,9 +45,9 @@
 	 font-size: 3em !important;
  }
 
- .footer-color {
+ /* .footer-color {
 	 font-size: 1.9em;
- }
+ } */
 
  .flex {
 	 display: flex;
@@ -84,6 +84,14 @@
 
 	.footer-hrs-add {
 		font-size: 2.5em;
+	}
+
+	.footer-times-size {
+		font-size: 27px;
+	}
+
+	.copyright-size-mobile {
+		font-size: 1.9em;
 	}
 	/*
  ===============================
@@ -159,6 +167,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.blackboard-img {
+		background: url(images/blackboard-body-mobile.jpg) !important;
 		background-size: contain !important;
 	}
 

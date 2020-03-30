@@ -54,6 +54,10 @@
 		color: white;
 	}
 
+	.md-box-wd {
+		width: 300px;
+	}
+
 	.footer-nav {
 		font-family: "Times New Roman", Times, serif;
 		font-size: 18px;
