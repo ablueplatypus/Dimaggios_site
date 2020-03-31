@@ -127,6 +127,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 2em;
 	}
 
+	.call-gift-card {
+		font-size: 0.6em;
+	}
+
  /* .text-lg-bold {
  	font-size: 2.5em;
  	font-weight: 300;
@@ -154,6 +158,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
  .text-titles {
 	 font-size: 70px;
+ }
+
+ .welcome-text {
+	 font-size: 90px;
  }
 
  /*
@@ -205,5 +213,5 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	.footer-times-size {
     font-size: 35px;
 	}
-	
+
 }
