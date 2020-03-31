@@ -202,4 +202,8 @@ Below CSS is being used to get any span tag that has an image inisde it.
     margin: 0 auto;
     display: flex;
 	}
+	.footer-times-size {
+    font-size: 35px;
+	}
+	
 }
