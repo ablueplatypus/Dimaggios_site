@@ -91,7 +91,7 @@
 	}
 
 	.copyright-size-mobile {
-		font-size: 1.9em;
+		font-size: 1.8em;
 	}
 	/*
  ===============================
@@ -171,8 +171,27 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		background-size: contain !important;
 	}
 
+	.blackboard-footer {
+		display: flex;
+		width: 100% !important;
+	}
+
+	.blackboard-titles {
+		font-weight: bold;
+		font-size: 1.5em;
+		color: #FFFF99;
+		font-family: "Times New Roman", Times, serif;
+	}
+
 	.cnt-img-header {
 		margin-left: 21px;
+	}
+
+	.special-menu tr {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 4px;
+		padding-bottom: 95px;
 	}
 
 } /* end of media tag */

@@ -158,9 +158,15 @@
 		background-color: #910100;
     width: 901px;
 		color: #FFF;
+		margin: 0 auto;
 	}
 
 	.lunch-info-custom-font {
 		font-weight: bold;
 		color: #FFFF99;
+	}
+
+	.special-menu {
+		align-content: center;
+		margin: 0 auto;
 	}
