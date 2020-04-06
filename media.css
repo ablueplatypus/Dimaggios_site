@@ -203,7 +203,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.service-msg {
-		font-size: 1.2em;
+		font-size: 1.2em !important;
 	}
 
 } /* end of media tag 760*/
