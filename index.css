@@ -170,3 +170,9 @@
 		align-content: center;
 		margin: 0 auto;
 	}
+
+	.service-msg {
+		padding: 60px;
+		font-size: 19px;
+		text-align: center;
+	}

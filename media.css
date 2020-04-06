@@ -202,6 +202,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		padding-bottom: 95px;
 	}
 
+	.service-msg {
+		font-size: 1.2em;
+	}
+
 } /* end of media tag 760*/
 
 @media only screen and (min-device-width: 340px) and (max-device-width: 760px) {
