@@ -93,6 +93,15 @@
 	.copyright-size-mobile {
 		font-size: 1.8em;
 	}
+
+	.svc-anc {
+		font-size: 60px;
+	}
+
+	.service-msg {
+		font-size: 50px !important;
+	}
+
 	/*
  ===============================
 	1.1 mobile - special
@@ -200,10 +209,6 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		justify-content: space-between;
 		margin-bottom: 4px;
 		padding-bottom: 95px;
-	}
-
-	.service-msg {
-		font-size: 1.2em !important;
 	}
 
 } /* end of media tag 760*/
