@@ -14,6 +14,10 @@
 		text-decoration: none;
 	}
 
+	h1 {
+		font-size: 32px;
+	}
+
 	.nav {
 		font-family: "Times New Roman", Times, serif;
 		font-size: 18px;
@@ -123,6 +127,30 @@
 
 	.font-sm {
 		font-size: 16px;
+	}
+
+	.easter-header {
+		color: #bf96d9;
+		font-size: 40px;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	h1.easter-header {
+		margin-bottom: 24px;
+	}
+
+	.easter-msg {
+		font-size: 25px;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	.easter-msg p {
+		margin-top: 20px;
+		margin-bottom: 5px;
+	}
+
+	.easter-anc {
+		margin-bottom: 50px;
 	}
 
 	.gift-card-promo {
