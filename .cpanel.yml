@@ -6,5 +6,6 @@ deployment:
     - /bin/cp media.css $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp limited-menu.html $DEPLOYPATH
+    - /bin/cp limited-menu.2020.pdf $DEPLOYPATH
     - /bin/cp dpw-menus-take_out.html $DEPLOYPATH
     # - /bin/cp -R images $DEPLOYPATH
