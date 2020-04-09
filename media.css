@@ -16,6 +16,10 @@
     width: 100%;
   }
 
+	object {
+		height: 70vh !important;
+	}
+
   .cnt-text {
     text-align: center;
   }
@@ -233,6 +237,15 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	.page-content {
 		display: flex;
 		justify-content: center;
+	}
+
+	.pdf-wrapper {
+		text-align: center;
+		display: flex;
+	}
+
+	.menu-body {
+		width: 100%;
 	}
 
 	.mobile-menu-message{
