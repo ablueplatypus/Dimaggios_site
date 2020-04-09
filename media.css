@@ -235,6 +235,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		justify-content: center;
 	}
 
+	.mobile-menu-message{
+		font-size: 70px;
+	}
+
 
 } /* end of media tag 760*/
 

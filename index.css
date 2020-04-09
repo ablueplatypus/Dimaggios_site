@@ -22,6 +22,12 @@
 		overflow: hidden;
 	}
 
+	object {
+		height: 99vh;
+		overflow: hidden;
+		width:100%;
+	}
+
 	.nav {
 		font-family: "Times New Roman", Times, serif;
 		font-size: 18px;
