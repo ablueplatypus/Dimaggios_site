@@ -5,4 +5,6 @@ deployment:
     - /bin/cp index.css $DEPLOYPATH
     - /bin/cp media.css $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp limited-menu.html $DEPLOYPATH
+    - /bin/cp dpw-menus-take_out.html $DEPLOYPATH
     # - /bin/cp -R images $DEPLOYPATH

@@ -110,6 +110,10 @@
 		font-size: 50px !important;
 	}
 
+	h3.blackboard-tiles.cnt-text {
+		margin-bottom: -5px;
+	}
+
 	/*
  ===============================
 	1.1 mobile - special
@@ -219,8 +223,23 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		padding-bottom: 95px;
 	}
 
+
+	/*
+	===============================
+	1.4 Menus
+	===============================
+	*/
+
+	.page-content {
+		display: flex;
+		justify-content: center;
+	}
+
+
 } /* end of media tag 760*/
 
+
+/* Footer Mobile screen between 340 and 760 */
 @media only screen and (min-device-width: 340px) and (max-device-width: 760px) {
 	.footer-hrs-add {
 		font-size: 44px;
