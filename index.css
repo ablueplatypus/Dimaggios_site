@@ -61,6 +61,11 @@
 	1.0 Global - new
  ===============================
  */
+
+ 	/* .v-align-top {
+		vertical-align: top;
+	} */
+
   .footer-td-width-ops {
     width: 300px;
   }
@@ -252,6 +257,7 @@
 	.special-menu {
 		align-content: center;
 		margin: 0 auto;
+		width: 100%;
 	}
 
 	.service-msg {
@@ -259,6 +265,15 @@
 		font-size: 20px;
 		text-align: center;
 		font-family: "Times New Roman", Times, serif;
+	}
+
+	.blackboard-dish {
+		vertical-align: top;
+    padding: 0 0 15px 30px;
+	}
+
+	.prices {
+		vertical-align: top;
 	}
 
 	/*
