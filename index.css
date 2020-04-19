@@ -289,3 +289,18 @@
 	.pdf-wrapper {
 		text-align: center;
 	}
+
+	.menu-font {
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	.menu-titles {
+		/* font-family: "Times New Roman", Times, serif; */
+		font-weight: bold;
+		color: #C73522;
+		font-size: 24px;
+	}
+
+	.dish-bold {
+		font-weight: bold;
+	}

@@ -234,6 +234,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	===============================
 	*/
 
+	.no-margin {
+		margin: 0px;
+	}
+
 	.page-content {
 		display: flex;
 		justify-content: center;
@@ -244,12 +248,27 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		display: flex;
 	}
 
-	.menu-body {
-		width: 100%;
+	.menu-body table {
+		/* width: 100%; */
+		display: flex;
 	}
 
-	.mobile-menu-message{
+	.menu-body tr {
+		display: flex;
+		justify-content: space-between;
+	}
+
+
+	.mobile-menu-message {
 		font-size: 70px;
+	}
+
+	.menu-titles {
+		font-size: 80px;
+	}
+
+	.menu-font {
+		font-size: 40px;
 	}
 
 
