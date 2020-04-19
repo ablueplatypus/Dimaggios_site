@@ -1,11 +1,25 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home2/dimaggio/public_html/
-    - /bin/cp dpw-blackboard-menus.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.css $DEPLOYPATH
     - /bin/cp media.css $DEPLOYPATH
-    - /bin/cp index.html $DEPLOYPATH
     - /bin/cp limited-menu.html $DEPLOYPATH
     - /bin/cp limited_menu_2020.pdf $DEPLOYPATH
+    - /bin/cp dpw-about-mural.html $DEPLOYPATH
+    - /bin/cp dpw-about-us.html $DEPLOYPATH
+    - /bin/cp dpw-blackboard-menus.html $DEPLOYPATH
+    - /bin/cp dpw-catering-parties.html $DEPLOYPATH
+    - /bin/cp dpw-catering.html $DEPLOYPATH
+    - /bin/cp dpw-desserts.html $DEPLOYPATH
+    - /bin/cp dpw-happenings.html $DEPLOYPATH
+    - /bin/cp dpw-home.html $DEPLOYPATH
+    - /bin/cp dpw-menus-dinner.html $DEPLOYPATH
+    - /bin/cp dpw-menus-lunch.html $DEPLOYPATH
     - /bin/cp dpw-menus-take_out.html $DEPLOYPATH
+    - /bin/cp dpw-menus-wine_list.html $DEPLOYPATH
+    - /bin/cp dpw-menus.html $DEPLOYPATH
+    - /bin/cp dpw-news-reviews.html $DEPLOYPATH
+    - /bin/cp dpw-photos.html $DEPLOYPATH
+    - /bin/cp dpw-visit-us.html $DEPLOYPATH
     # - /bin/cp -R images $DEPLOYPATH
