@@ -116,6 +116,7 @@
 
 	h3.blackboard-tiles.cnt-text {
 		margin-bottom: -5px;
+		font-size: 2em;
 	}
 
 	/*
@@ -216,6 +217,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-family: "Times New Roman", Times, serif;
 	}
 
+	.blackboard-dish {
+		padding: 0 0 15px 10px !important;
+	}
+
 	.cnt-img-header {
 		margin-left: 21px;
 	}
@@ -224,8 +229,18 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		display: flex;
 		justify-content: space-between;
 		margin-bottom: 4px;
-		padding-bottom: 95px;
+		padding-bottom: 50px;
+    padding-left: 0px;
 	}
+
+	.special-menu {
+		font-size: 50px;
+	}
+
+	.prices {
+		padding-right: 15px;
+	}
+
 
 
 	/*
