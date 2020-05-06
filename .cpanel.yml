@@ -1,6 +1,7 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/dimaggio/public_html/
+    # - export DEPLOYPATH=/home2/dimaggio/public_html/
+    - export DEPLOYPATH=/home/dimaumck/public_html
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.css $DEPLOYPATH
     - /bin/cp media.css $DEPLOYPATH
@@ -22,4 +23,4 @@ deployment:
     - /bin/cp dpw-news-reviews.html $DEPLOYPATH
     - /bin/cp dpw-photos.html $DEPLOYPATH
     - /bin/cp dpw-visit-us.html $DEPLOYPATH
-    # - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
