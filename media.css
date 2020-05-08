@@ -38,8 +38,8 @@
  */
 
  .nav {
-	 font-size: 65px !important;
-	 display: contents;
+	 font-size: 55px !important;
+	 display: contents !important;
  }
 
  .nav a {
@@ -226,7 +226,9 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.cnt-img-header {
-		margin-left: 21px;
+		margin-left: auto;
+    margin-right: auto;
+    width: 108%;
 	}
 
 	.special-menu tr {
