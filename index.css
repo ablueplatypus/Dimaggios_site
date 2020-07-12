@@ -310,3 +310,8 @@
 	.dish-bold {
 		font-weight: bold;
 	}
+
+	.bold-red {
+		font-weight: bold;
+		color: #C63522;
+	}
