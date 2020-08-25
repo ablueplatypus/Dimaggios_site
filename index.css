@@ -1,5 +1,19 @@
-
-  td img {
+/*
+=======================
+	Table of Contents
+=======================
+1.0 Global
+1.2 Fonts
+1.3 Blackboard
+1.4 Menus Global
+2.0 Instagram Plugin
+*/
+  
+ 
+ 
+ 
+ 
+ td img {
     display: block;
   }
 
@@ -351,4 +365,16 @@
 	.bold-red {
 		font-weight: bold;
 		color: #C63522;
+	}
+	/*
+ ===============================
+	2.0 Instagram Plugin
+ ===============================
+ */
+	.estitle {
+		display: none;
+	}
+
+	.powered-by {
+		display: none;
 	}
