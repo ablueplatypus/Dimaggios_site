@@ -13,16 +13,20 @@
  
  
  
- td img {
-    display: block;
-  }
+	td img {
+		display: block;
+	}
 
-  body {
-	  background-color: #FFBD86;
-	  background-image: url(images/background-texture.gif);
-	  background-repeat: repeat-x;
+	/* html{
+		font-size: 100%;
+	} */
+
+	body {
+		background-color: #FFBD86;
+		background-image: url(images/background-texture.gif);
+		background-repeat: repeat-x;
 		font-family: Arial, Helvetica, sans-serif;
-  }
+	}
 
 	a {
 		text-decoration: none;
@@ -65,10 +69,10 @@
 		color: #FFFFFF;
 	}
 
-  a:hover {
+	a:hover {
 		color: #FF9A00;
 		text-decoration: underline;
-  }
+	}
 
 	/*
  ===============================
@@ -82,8 +86,8 @@
 
 /* Dropdown */
 	.dropdown {
-		position: relative;
 		display: inline-block;
+		position: relative;
 	}
 
 	.dropdown-content {
@@ -114,9 +118,9 @@
 		display: none;
 	}
 
-  .footer-td-width-ops {
-    width: 300px;
-  }
+	.footer-td-width-ops {
+		width: 300px;
+	}
 
 	.cnt-text {
 		text-align: center;
@@ -160,7 +164,7 @@
 	.svc-anc {
 		color: #7b0100;
 		font-weight: bold;
-    font-size: 1.5em;
+    	font-size: 1.5em;
 		/* font-family: "Times New Roman", Times, serif; */
 	}
 
@@ -174,7 +178,7 @@
 	a.menu-link:hover {
 		color: #a86602;
 		text-decoration: underline;
-  }
+  	}
 
 	/* a:hover.footer-nav{
 		color: #FF9A00;
@@ -188,6 +192,12 @@
 
 	.card-color{
 		color: #FFF;
+	}
+
+	.font-bold-16 {
+		font-size: 16px;
+		font-style: bold;
+		font-weight: bold;	
 	}
 
 	.font-bold-24 {
@@ -213,9 +223,9 @@
 		color: #FFF;
 	}
 
- .text-titles {
-	 font-size: 1.3625em;
-	 font-weight: bold;
+	.text-titles {
+	font-size: 1.3625em;
+	font-weight: bold;
 	}
 
 	.text-md {
@@ -356,7 +366,7 @@
 		/* font-family: "Times New Roman", Times, serif; */
 		font-weight: bold;
 		color: #C73522;
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 	.dish-bold {

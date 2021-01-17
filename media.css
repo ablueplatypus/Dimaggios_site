@@ -319,6 +319,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 40px;
 	}
 
+	.cat-display-revert {
+		display: revert;
+	}
+
 
 } /* end of media tag 760*/
 
