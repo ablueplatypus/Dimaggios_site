@@ -126,9 +126,13 @@
 		text-align: center;
 	}
 
-	.cnt-img-header{
+	/* .cnt-img-header{
 		width: 100%;
 	}
+
+	img#dimaggios-banner {
+		width: 108%;
+	} */
 	
 	.align-middle {
 		vertical-align: middle;
