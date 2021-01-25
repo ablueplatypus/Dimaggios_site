@@ -1,9 +1,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/dimaggio/public_html
+    - /bin/cp -R font-awesome $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.css $DEPLOYPATH
     - /bin/cp media.css $DEPLOYPATH
+    - /bin/cp app.js $DEPLOYPATH
     - /bin/cp limited-menu.html $DEPLOYPATH
     - /bin/cp limited_menu_2020.pdf $DEPLOYPATH
     - /bin/cp dpw-about-mural.html $DEPLOYPATH

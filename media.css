@@ -1,4 +1,4 @@
-@media only screen and (max-device-width: 760px) {
+@media only screen and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 1) {
 	html {
 		width: fit-content;
 	}
@@ -52,23 +52,24 @@
 	 font-size: 3em !important;
  }
 
- .dropdown-content {
-	 display: none;
-	 position: unset !important;
-	 min-width: unset !important;
-	 background-color: #7B0201 !important;
-	 box-shadow: none !important;
- }
+	.dropdown-content {
+		display: none;
+		position: unset !important;
+		min-width: unset !important;
+		background-color: #7B0201 !important;
+		box-shadow: none !important;
+	}
+
 
 	.menus-link {
 		display: none;
 	}
 
 	.mobile-menu-link {
-		display: block !important;
+		display: block;
 		padding: 10px;
 		text-decoration: underline;
-    text-decoration-color: #F7b882;
+    	text-decoration-color: #F7b882;
 	}
 
 	.nav-link {
