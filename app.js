@@ -14,10 +14,11 @@ window.addEventListener('DOMContentLoaded', () => {
 	// }
 
 	if (screen.width <= 760) {
-		// dropdownContent.style.display === "none"
-			
+		// set disaply as it is not automatically set on the page
+		dropdownContent.style.display = "none"
 		dropdown.addEventListener('click',(e)=> {
 			// console.log('clicked menu',e)
+			
 			if (dropdownContent.style.display === "none") {
 				dropdownContent.style.display = "block";
 				caretIcon.className = 'fa fa-caret-up';
