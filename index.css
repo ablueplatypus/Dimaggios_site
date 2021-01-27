@@ -59,10 +59,16 @@
 		font-family: "Times New Roman", Times, serif;
 		font-size: 18px;
 		color: #FFFFFF;
+		
+	}
+
+	tr.nav * {
+		background-color: #7b0100;
 	}
 
 	.nav a {
 		color: #FFFFFF;
+		
 	}
 
   a:hover {
