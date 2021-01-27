@@ -316,8 +316,18 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 80px;
 	}
 
+	.menu-titles-wine {
+		font-size: 65px !important;
+		font-weight: bold;
+		color: #C73522;
+	}
+
 	.menu-font {
 		font-size: 40px;
+	}
+
+	tr.wine-list {
+		font-size: 29px;
 	}
 
 
@@ -327,7 +337,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 /* Footer Mobile screen between 340 and 760 */
 @media only screen and (min-device-width: 340px) and (max-device-width: 760px) {
 	.footer-hrs-add {
-		font-size: 44px;
+	font-size: 44px;
     margin: 0 auto;
     display: flex;
 	}
