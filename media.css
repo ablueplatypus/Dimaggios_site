@@ -1,4 +1,4 @@
-@media only screen and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 1) {
+@media only screen and (max-device-width: 760px) {
 	html {
 		width: fit-content;
 	}
@@ -319,7 +319,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.menu-titles {
-		font-size: 80px;
+		font-size: 80px ;
 	}
 
 	.menu-titles-wine {
@@ -328,6 +328,13 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		color: #C73522;
 	}
 
+	.menu-title-dessert {
+		font-size: 4rem;
+		color: #C73522;
+	}
+	}
+
+
 	.menu-font {
 		font-size: 40px;
 	}
@@ -335,6 +342,11 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	tr.wine-list {
 		font-size: 29px;
 	}
+
+	.dessert-font-size{
+		font-size: 3.5em;
+	}
+
 
 
 } /* end of media tag 760*/
