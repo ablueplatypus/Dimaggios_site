@@ -146,6 +146,11 @@
 		font-size: 60px;
 	}
 
+	.slice-img-mb {
+		height: 50%;
+    	width: 50%;
+	}
+
 	.service-msg {
 		font-size: 50px !important;
 	}
