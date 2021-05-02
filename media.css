@@ -323,13 +323,14 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.menu-titles {
-		font-size: 80px ;
+		font-size: 65px ;
 	}
 
 	.menu-titles-wine {
 		font-size: 60px !important;
 		font-weight: bold;
 		color: #C73522;
+		
 	}
 
 	.menu-title-dessert {
@@ -341,7 +342,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 40px;
 	}
 
-	tr.wine-list {
+	.wine-list {
 		font-size: 29px;
 	}
 
@@ -361,6 +362,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
 	tr.tr-cat {
 		display: table-row;
+	}
+
+	.menu-font-cat {
+		font-size: 35px;
 	}
 
 
