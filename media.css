@@ -349,6 +349,20 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 3.5rem;
 	}
 
+	/*
+	===============================
+	1.4 Catering Override
+	===============================
+	*/
+
+	tr.tr-cat td {
+		display: table-cell;
+	}
+
+	tr.tr-cat {
+		display: table-row;
+	}
+
 
 
 } /* end of media tag 760*/

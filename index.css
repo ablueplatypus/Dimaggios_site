@@ -103,11 +103,11 @@
 	}
 
 	.dropdown-content a {
-  color: #FFF;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
+		color: #FFF;
+		display: block;
+		padding: 12px 16px;
+		text-decoration: none;
+	}
 
 	.dropdown-content a:hover {
 		background-color: #ddd;
@@ -121,9 +121,9 @@
 		display: none;
 	}
 
-  .footer-td-width-ops {
-    width: 300px;
-  }
+ 	.footer-td-width-ops {
+   	 	width: 300px;
+ 	 }
 
 	.cnt-text {
 		text-align: center;
@@ -166,7 +166,7 @@
 	.svc-anc {
 		color: #7b0100;
 		font-weight: bold;
-    font-size: 1.5em;
+    	font-size: 1.5em;
 		/* font-family: "Times New Roman", Times, serif; */
 	}
 
