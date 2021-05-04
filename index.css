@@ -225,14 +225,13 @@
 	 font-weight: bold;
 	}
 
-	.text-md {
-	 font-size: 1em;
-	}
-
 	.font-sm {
 		font-size: 16px;
 	}
 
+	.font-20 {
+		font-size: 20px;
+	}
 
 	.easter-header {
 		color: #bf96d9;
@@ -267,6 +266,11 @@
 
 	.welcome-text {
 		font-size: 30px;
+		font-style: italic;
+		font-weight: bold;
+	}
+
+	.hdr-italic {
 		font-style: italic;
 		font-weight: bold;
 	}
