@@ -197,6 +197,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
     height: 100%;
  }
 
+ .embedsocial-instagram {
+	width: 60rem;
+}
+
 
 	/*
  ===============================
@@ -311,12 +315,11 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 
-
-	/*
-	===============================
-	1.4 Menus
-	===============================
-	*/
+/*
+===============================
+1.4 Menus
+===============================
+*/
 
 	.no-margin {
 		margin: 0px;
