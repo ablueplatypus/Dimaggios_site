@@ -192,6 +192,11 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	width: auto;
  }
 
+ .mb-img-lg {
+	width: 450px;
+    height: 100%;
+ }
+
 
 	/*
  ===============================

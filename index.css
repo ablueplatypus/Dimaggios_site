@@ -122,6 +122,12 @@
 		display: none;
 	}
 
+/*
+ ===============================
+	1.0 Global - Misc
+ ===============================
+ */
+
  	.footer-td-width-ops {
    	 	width: 300px;
  	 }
@@ -133,6 +139,18 @@
 	.cnt-img-header{
 		width: 100%;
 	}
+
+	.cnt-img {
+		display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+	}
+
+	.cat-img-cnt-btn{
+		display: flex;
+    	justify-content: center;
+	}
+
 	.align-middle {
 		vertical-align: middle;
 	}
@@ -181,6 +199,10 @@
 	a.menu-link:hover {
 		color: #a86602;
 		text-decoration: underline;
+  }
+
+  .padding-right {
+	  padding-right: 10px;
   }
 
 	/* a:hover.footer-nav{
@@ -355,11 +377,6 @@
 		padding-right: 15px;
 	}
 
-	.cnt-img {
-		display: block;
-    	margin-left: auto;
-    	margin-right: auto;
-	}
 
 	/*
  ===============================
