@@ -76,7 +76,7 @@
 
 	/*
  ===============================
-	1.0 Global - new
+	1.0 Global
  ===============================
  */
 
@@ -116,6 +116,10 @@
 
 	.mobile-menu-link {
 		display: none;
+	}
+
+	.margin-auto {
+		margin: auto;
 	}
 
 /*
