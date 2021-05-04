@@ -1,37 +1,49 @@
+/*
+=======================
+	Table of Contents
+=======================
+1.0 Mobile Global
+1.1 mobile - special
+1.2 mobile - images
+1.3 Fonts - Text size
+1.4 Blackboard Mobile
+1.5 Menus - mobile
+*/
+
 @media only screen and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 1) {
 	
 	html {
 		width: fit-content;
 	}
 
-  table, thead, tbody,th,td,tr {
-    display: table-row;
-    margin: 0;
-    padding: 0;
-    border: 0;
-  }
+	table, thead, tbody,th,td,tr {
+    	display: table-row;
+    	margin: 0;
+    	padding: 0;
+    	border: 0;
+  	}
 
-  td img {
-   width: 100%;
-   height: fit-content;
- }
+	td img {
+		width: auto;
+		height: fit-content;
+	}
 
-  tbody {
-    width: 100%;
-  }
+	tbody {
+		width: 100%;
+	}
 
-  object {
-	height: 70vh !important;
-  }
+	object {
+		height: 70vh !important;
+	}
 
-  tr.nav td {
-	height: 100px;
-  }
-  
+	tr.nav td {
+		height: 100px;
+	}
+	
 
-  .cnt-text {
-    text-align: center;
-  }
+	.cnt-text {
+		text-align: center;
+	}
 
 	.margin-left-bl-cnt {
 		margin-left: 95px;
@@ -39,7 +51,7 @@
 
 /*
  ===============================
-	1.0 mobile Global
+	1.0 Mobile Global
  ===============================
  */
 
@@ -82,6 +94,10 @@
 	.nav-link {
 	    height: 100px;
 		text-align: center;
+	}
+
+	.banner-img-mobile {
+		width: 100%;
 	}
 
 
@@ -184,7 +200,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
   /*
  ===============================
-	1.1 mobile - images
+	1.2 mobile - images
  ===============================
  */
 
@@ -204,7 +220,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
 	/*
  ===============================
-	1.2 Fonts - Text size
+	1.3 Fonts - Text size
  ===============================
  */
 
@@ -263,7 +279,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
  /*
  ===============================
- 1.3 Blackboard
+ 1.4 Blackboard Mobile
  ===============================
  */
 
@@ -317,7 +333,7 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
 /*
 ===============================
-1.4 Menus
+1.5 Menus - mobile
 ===============================
 */
 
