@@ -26,6 +26,7 @@
 
 	a {
 		text-decoration: none;
+		color: #000;
 	}
 
 	h1 {
@@ -219,7 +220,7 @@
 		color: #FFF;
 	}
 
- .text-titles {
+ 	.text-titles {
 	 font-size: 1.3625em;
 	 font-weight: bold;
 	}
@@ -281,6 +282,16 @@
 
 	h3.svc-anc.cnt-text {
 		margin-bottom: -5px;
+	}
+
+	.mural-txt {
+		font-size: 10px; 
+		color: #000000;
+		font-weight: bold;
+	}
+
+	.times-font{
+		font-family: "Times New Roman", Times, serif;
 	}
 
 	/*
@@ -370,9 +381,7 @@
 		color: #C73522;
 		font-size: 24px;
 	}
-
 	
-
 	.dish-bold {
 		font-weight: bold;
 	}

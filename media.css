@@ -1,4 +1,5 @@
 @media only screen and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 1) {
+	
 	html {
 		width: fit-content;
 	}
@@ -36,7 +37,7 @@
 		margin-left: 95px;
 	}
 
-	/*
+/*
  ===============================
 	1.0 mobile Global
  ===============================
@@ -161,11 +162,12 @@
 		margin-top: 15px;
 	}
 
-	/*
+/*
  ===============================
 	1.1 mobile - special
  ===============================
  */
+
   img.tripadvisor {
     height: auto;
     width: 30%;
@@ -179,6 +181,16 @@ Below CSS is being used to get any span tag that has an image inisde it.
     height: auto;
     width: 18%;
   }
+
+  /*
+ ===============================
+	1.1 mobile - images
+ ===============================
+ */
+
+ .width-auto {
+	width: auto;
+ }
 
 
 	/*
@@ -230,6 +242,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
  .welcome-text {
 	 font-size: 90px;
+ }
+
+ .pls-call-font-mb {
+	font-size: 50px;
  }
 
  /*
@@ -323,14 +339,13 @@ Below CSS is being used to get any span tag that has an image inisde it.
 	}
 
 	.menu-titles {
-		font-size: 65px ;
+		font-size: 80px ;
 	}
 
 	.menu-titles-wine {
 		font-size: 60px !important;
 		font-weight: bold;
 		color: #C73522;
-		
 	}
 
 	.menu-title-dessert {
@@ -342,30 +357,12 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 40px;
 	}
 
-	.wine-list {
+	tr.wine-list {
 		font-size: 29px;
 	}
 
 	.dessert-font-size {
 		font-size: 3.5rem;
-	}
-
-	/*
-	===============================
-	1.4 Catering Override
-	===============================
-	*/
-
-	tr.tr-cat td {
-		display: table-cell;
-	}
-
-	tr.tr-cat {
-		display: table-row;
-	}
-
-	.menu-font-cat {
-		font-size: 35px;
 	}
 
 
