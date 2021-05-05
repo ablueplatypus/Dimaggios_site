@@ -74,6 +74,11 @@
 		text-decoration: underline;
   }
 
+  a[href^=tel] {
+	text-decoration:inherit;
+	color: inherit;
+ }
+
 	/*
  ===============================
 	1.0 Global
