@@ -274,6 +274,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
  	font-size: 1.5em;
  }
 
+ .font-35-mb {
+	 font-size: 35px;
+ }
+
  .text-titles {
 	 font-size: 70px;
  }
