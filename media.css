@@ -197,6 +197,11 @@ Below CSS is being used to get any span tag that has an image inisde it.
     width: 18%;
   }
 
+  .map {
+	height: 750px;
+	width: 850px;
+}
+
   /*
  ===============================
 	1.2 mobile - images
@@ -239,9 +244,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 		font-size: 0.6em;
 	}
 
-	.hours {
-		font-size: 35px;
+	.font-sm-mb {
+		font-size: 1em;
 	}
+
 
  /* .text-lg-bold {
  	font-size: 2.5em;
@@ -270,6 +276,10 @@ Below CSS is being used to get any span tag that has an image inisde it.
 
  .text-titles {
 	 font-size: 70px;
+ }
+
+ .mural-txt {
+	font-size: 16px;
  }
 
  .welcome-text {
