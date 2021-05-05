@@ -122,6 +122,11 @@
 		margin: auto;
 	}
 
+	.menus-link:hover {
+		text-decoration: none;
+		color: #FFF;
+	}
+
 /*
  ===============================
 	1.0 Global - Misc

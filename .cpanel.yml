@@ -10,7 +10,7 @@ deployment:
     - /bin/cp limited_menu_2020.pdf $DEPLOYPATH
     - /bin/cp dpw-about-mural.html $DEPLOYPATH
     - /bin/cp dpw-about-us.html $DEPLOYPATH
-    # - /bin/cp dpw-blackboard-menus.html $DEPLOYPATH
+    - /bin/cp dpw-blackboard-menus.html $DEPLOYPATH
     - /bin/cp dpw-catering-parties.html $DEPLOYPATH
     - /bin/cp dpw-catering.html $DEPLOYPATH
     - /bin/cp dpw-desserts.html $DEPLOYPATH
